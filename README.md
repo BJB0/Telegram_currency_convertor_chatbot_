@@ -1,4 +1,4 @@
-# 💱 Currency Converter Chatbot using Dialogflow + Telegram + Flask
+# 💱 Currency Converter Chatbot 
 
 This project is a **Currency Converter Chatbot** that integrates:
 - **Dialogflow** for Natural Language Understanding (NLU)
